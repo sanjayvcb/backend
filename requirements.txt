@@ -1,3 +1,8 @@
+# CPU-only PyTorch to save massive space (Render doesn't have GPUs anyway on free/starter tiers)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
 flask
 flask-cors
 ultralytics
