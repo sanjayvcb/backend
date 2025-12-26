@@ -1,0 +1,8 @@
+flask
+flask-cors
+ultralytics
+duckduckgo-search
+requests
+pillow
+gunicorn
+opencv-python-headless
